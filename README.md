@@ -1,2 +1,2 @@
-# Strivers_A2Z_Sheet
-Java solutions and structured practice for Striver’s A2Z DSA Sheet, focused on implementation, patterns, and interview preparation.
+# Neetcode_150
+Java solutions and structured practice for Neetcode_150 DSA problems.
